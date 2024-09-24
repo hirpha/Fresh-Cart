@@ -1,4 +1,4 @@
-import 'package:devivery/home.dart';
+import 'package:devivery/screens/home.dart';
 import 'package:flutter/material.dart';
 
 class OrderSuccessPage extends StatelessWidget {

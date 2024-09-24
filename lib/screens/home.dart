@@ -1,6 +1,6 @@
-import 'package:devivery/assets.dart';
-import 'package:devivery/cart.dart';
-import 'package:devivery/product_detail.dart';
+import 'package:devivery/assets/assets.dart';
+import 'package:devivery/screens/cart.dart';
+import 'package:devivery/screens/product_detail.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';

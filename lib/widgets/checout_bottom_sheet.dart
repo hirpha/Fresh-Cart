@@ -1,4 +1,4 @@
-import 'package:devivery/order_success_page.dart';
+import 'package:devivery/screens/order_success_page.dart';
 import 'package:flutter/material.dart';
 
 class CheckoutBottomSheet extends StatelessWidget {

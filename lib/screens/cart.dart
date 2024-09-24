@@ -1,5 +1,5 @@
-import 'package:devivery/checout_bottom_sheet.dart';
-import 'package:devivery/home.dart';
+import 'package:devivery/widgets/checout_bottom_sheet.dart';
+import 'package:devivery/screens/home.dart';
 import 'package:flutter/material.dart';
 
 class CartScreen extends StatefulWidget {

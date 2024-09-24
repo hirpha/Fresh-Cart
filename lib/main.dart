@@ -1,8 +1,8 @@
-import 'package:devivery/home.dart';
-import 'package:devivery/product_detail.dart';
+import 'package:devivery/screens/home.dart';
+import 'package:devivery/screens/product_detail.dart';
 import 'package:flutter/material.dart';
 
-import 'order_success_page.dart';
+import 'screens/order_success_page.dart';
 
 void main() {
   runApp(const MyApp());
